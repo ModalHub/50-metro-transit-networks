@@ -26,4 +26,4 @@ $\bar{A}$ : Average length of connected shortest paths
 
 $\beta$: The number of links to the number of nodes
 
-$\alpha$: The number of link in the network to the number of link in a complete network with the same node size
+$\gamma$: The number of link in the network to the number of link in a complete network with the same node size

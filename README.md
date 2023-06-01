@@ -1,15 +1,22 @@
 # Overview
 The repository proivdes the topological analysis for 50 metro transit networks around the globe.
-For each metro transit system, we report
-The number of nodes
+For each metro transit system, we report:
+
+### Topological Components
 
 $\|N|$: Number of nodes in the network
 
 $\|L|$: Number of links in the network
 
-$C$ : Link betweennes cenrality
+### Accessibility Measures
+
+$\bar{B}$ : Average link betweennes cenrality
 
 $D$ : Network diameter
+
+$\bar{A}$ : Average length of connected shortest paths
+
+### Connectivity Measures
 
 $\beta$: The number of links to the number of nodes
 

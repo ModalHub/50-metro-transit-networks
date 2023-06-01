@@ -1,6 +1,12 @@
 # Overview
-The repository proivdes the topological analysis for 50 metro transit networks around the globe.
-For each metro transit system, we report:
+The repository proivdes data and topological analysis for the 50 metro transit networks around the globe.
+
+## 50-metro-transit-network Excel file
+The file provides the topology of 50 metro transit networks as node-link connections. each cell in "Link Existance" has a value of  one if there is directed link from "NodeO" to "NodeD", and zero otherwise.
+
+## Topological Characteristics Excel file
+
+The file reports the following topological characteris for each metro transit system:
 
 ### Topological Components
 
